@@ -25,14 +25,14 @@ This is a solution to the QR Code Component challenge on Frontend Mentor. The go
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/Lit-97/qrcodefrontendmentor)
-- Live Site URL: [Live Site](https://lit-97.github.io/qrcodefrontendmentor/)
+- Solution URL: [GitHub Repository](https://github.com/Lit-97/blog-preview-card-fm)
+- Live Site URL: [Live Site](https://lit-97.github.io/blog-preview-card-fm/)
 
 
 ## My process
-I started by setting up the basic HTML structure with a `main` container, an `img` for the QR code, and text elements using `h1` and `p`. After that, I styled the layout using CSS Flexbox to center everything in the middle of the screen.
+I started by setting up the basic HTML structure with a `main` container, an `img` for the images, and text elements using `h1` and `p`. After that, I styled the layout using CSS Flexbox to center everything in the middle of the screen.
 
-I added padding, a box shadow, and border-radius to create a card-like appearance. Then, I adjusted the font styles using a Google Font (Outfit) and used `rem` units for scalable sizing. I finished by adding responsiveness for smaller screens using a simple media query.
+I added padding, a box shadow, and border-radius to create a card-like appearance. Then, I adjusted the font styles using a Google Font (Figtree) and used `rem` units for scalable sizing. I finished by adding responsiveness for smaller screens using a simple media query.
 
 
 ### Built with
