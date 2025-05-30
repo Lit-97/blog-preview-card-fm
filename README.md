@@ -41,15 +41,14 @@ I added padding, a box shadow, and border-radius to create a card-like appearanc
 - CSS Flexbox
 - Mobile-first design
 - `rem` units for responsive sizing
-- Google Fonts (Outfit)
+- Google Fonts (Figtree)
 - Vanilla CSS (no frameworks)
 
 ### What I learned
 
 - How to structure a simple HTML layout using semantic tags like `<main>`, `<h1>`, and `<p>`.
 - How to center content vertically and horizontally using Flexbox.
-- The difference between `px` and `rem`, and why `rem` is better for scalable designs.
-- How to import and apply a Google Font (Outfit) in a project.
+- How to use CSS box shadows and transitions to add interactivity and depth to the card, mimicking a real-world UI feel.
 - How `max-width` helps keep layouts looking clean on larger screens.
 - The importance of resetting default browser styles with `margin: 0` on `body`.
 
